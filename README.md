@@ -27,9 +27,9 @@ This project streamlines **restaurant operations** such as order management, men
 ## 📂 Project Structure
 restaurant-management-system/    
 |-- src/                 
-|     |-- frontend/        
-|     |-- backend/         
-|     |-- docs/           
+|-------- frontend/        
+|-------- backend/         
+|-------- docs/           
 |-- screenshots/        
 |-- Login form.sln      
 |-- Login form.csproj  
